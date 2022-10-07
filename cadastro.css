@@ -1,0 +1,34 @@
+.navbar {
+    padding: 25px;    
+    margin: auto;
+    width: 1300px;
+    height: 100px;
+}
+.banner2{
+    width: 100%;
+    height: 700px;
+    background-image: url(./Imagens/Telas/Ascent3.jpg) ;
+    -webkit-mask-image: linear-gradient(to top, transparent 2%, black 30%);
+    background-size: cover;
+}
+.banner2 a, p{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    
+}
+.box{
+    width: 430px;
+    height: auto;
+    margin: auto;
+    padding: 30px;
+    border: solid rgb(19, 19, 19);
+    border-radius: 40px;
+}
+input{
+    width: 100%;
+}
+
+.Button{
+    margin: 25px auto;
+    display: block;
+}
